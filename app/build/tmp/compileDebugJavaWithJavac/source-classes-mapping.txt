@@ -1,0 +1,21 @@
+com/example/myretrofittest/BuildConfig.java
+ com.example.myretrofittest.BuildConfig
+com/example/myretrofittest/TestGson/Job.java
+ com.example.myretrofittest.TestGson.Job
+com/example/myretrofittest/TestAPI_API/APIService.java
+ com.example.myretrofittest.TestAPI_API.APIService
+com/example/myretrofittest/TestAPI_Model/TestAPI_User.java
+ com.example.myretrofittest.TestAPI_Model.TestAPI_User
+com/example/myretrofittest/TestAPI_Model/TestAPIClass.java
+ com.example.myretrofittest.TestAPI_Model.TestAPIClass
+com/example/myretrofittest/TestGson/Hobby.java
+ com.example.myretrofittest.TestGson.Hobby
+com/example/myretrofittest/MainActivity.java
+ com.example.myretrofittest.MainActivity
+ com.example.myretrofittest.MainActivity$1
+ com.example.myretrofittest.MainActivity$2
+ com.example.myretrofittest.MainActivity$3
+ com.example.myretrofittest.MainActivity$4
+ com.example.myretrofittest.MainActivity$5
+com/example/myretrofittest/TestGson/User.java
+ com.example.myretrofittest.TestGson.User

@@ -1,0 +1,4 @@
+#Wed Jun 23 15:09:34 ICT 2021
+base.0=D\:\\Android\\MyRetrofitTest\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
